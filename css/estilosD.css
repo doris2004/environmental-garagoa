@@ -1,0 +1,13 @@
+h1{
+    color: white;
+}
+table,tr,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1300px;
+    height: 150;
+    background-color: salmon;
+}
+body{
+    background-color: black;
+}
